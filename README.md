@@ -16,10 +16,15 @@ The dataset includes the following fields:
 
 ## Project Objectives
 **Data Exploration:** Understand and clean the dataset to ensure accurate analysis.
+
 **Metric Identification:** Focus on the North Star Metric—Number of Completed Deliveries.
+
 **Analysis:** Perform exploratory data analysis (EDA) to uncover trends, patterns, and outliers.
+
 **Modeling:** Use machine learning models to predict key factors that influence the number of completed deliveries.
+
 **Recommendations:**Provide specific business recommendations based on the analysis to help DoorDash improve its operations.
+
 Technologies Used:
 * Python
 * pandas
