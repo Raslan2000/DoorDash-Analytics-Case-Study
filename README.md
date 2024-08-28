@@ -23,7 +23,7 @@ The dataset includes the following fields:
 
 **Modeling:** Use machine learning models to predict key factors that influence the number of completed deliveries.
 
-**Recommendations:**Provide specific business recommendations based on the analysis to help DoorDash improve its operations.
+**Recommendations:** Provide specific business recommendations based on the analysis to help DoorDash improve its operations.
 
 Technologies Used:
 * Python
